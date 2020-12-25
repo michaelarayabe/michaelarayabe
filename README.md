@@ -3,7 +3,7 @@
 I am Michael Araya a chess enthusiast and a coffee snob now turned java developer living in Brussel. You can catch me
 on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="https://github.com/michaelarayabe/michaelarayabe/blob/main/imgs/linkedin.png" width = "30px"></a>
 
-####Languages and tools<br>
+#### Languages and tools<br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
