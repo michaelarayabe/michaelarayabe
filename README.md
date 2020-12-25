@@ -1,7 +1,7 @@
 <img src="https://github.com/michaelarayabe/michaelarayabe/blob/main/gifs/mchrome.gif"></br>
 ### Hi there 👋 <br>
 I am Michael Araya a chess enthusiast and a coffee snob now turned java developer living in Brussel. You can catch me
-on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="https://github.com/michaelarayabe/michaelarayabe/blob/main/imgs/linkedIn.png" width = "30px"></a>
+on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="https://github.com/michaelarayabe/michaelarayabe/blob/main/imgs/linkedin.png" width = "30px"></a>
 
 <!--
 **michaelarayabe/michaelarayabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
