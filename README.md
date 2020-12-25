@@ -17,7 +17,7 @@ on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="htt
 
 #### Github Stats <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<michaelarayabe>&theme=dark" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michaelarayabe&show_icons=true&theme=radical)
 <!--
 **michaelarayabe/michaelarayabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
