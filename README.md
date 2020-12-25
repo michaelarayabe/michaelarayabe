@@ -15,6 +15,9 @@ on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="htt
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+#### Github Stats <br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<michaelarayabe>&theme=dark" />
 <!--
 **michaelarayabe/michaelarayabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
