@@ -3,10 +3,11 @@
 I am Michael Araya a chess enthusiast and a coffee snob now turned java developer living in Brussel. You can catch me
 on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="https://github.com/michaelarayabe/michaelarayabe/blob/main/imgs/linkedin.png" width = "30px"></a>
 
-####Languages and tools
+####Languages and tools<br>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a\n)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Intellij&nbsp;IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual&nbsp;Studio&nbsp;Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
