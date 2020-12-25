@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/michaelarayabe/michaelarayabe/blob/main/gifs/mchrome.gif">
 <!--
 **michaelarayabe/michaelarayabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
