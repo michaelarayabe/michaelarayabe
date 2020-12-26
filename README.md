@@ -14,10 +14,16 @@ on <a href = "https://www.linkedin.com/in/michael-araya-9309a415/"><img src="htt
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=?logo=data:imgs/linux.svg,…&logoColor=white&color=2bbc8a)
+
+
 
 #### Github Stats <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michaelarayabe&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michaelarayabe&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelarayabe&layout=compact&show_icons=true&theme=dark)](https://github.com/michaelarayabe/github-readme-stats)
+
 <!--
 **michaelarayabe/michaelarayabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
